@@ -22,7 +22,7 @@
 ### 🗄️ Bases de Datos
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
 ### ⚙️ Herramientas y Entornos
@@ -69,8 +69,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sebastian&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sebastian&layout=compact&theme=tokyonight" />
 </p>
 
 ---
