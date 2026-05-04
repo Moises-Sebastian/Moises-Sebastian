@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Moisés Sebastián Ávila Roldán</h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas e Informática | Desarrollador Web en formación</h3>
 
-<!--
-**Moises-Sebastian/Moises-Sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú  
+💡 Apasionado por la tecnología y el desarrollo de aplicaciones web  
+🔧 Interesado en el backend, bases de datos y arquitectura de sistemas  
+📈 Actualmente sigo aprendiendo y mejorando mis habilidades cada día  
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 💻 Lenguajes de Programación
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+### 🗄️ Bases de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### ⚙️ Herramientas y Entornos
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🌐 Frameworks y Tecnologías Web
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,spring,bootstrap" />
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 📊 JDM Surveys
+🔹 Plataforma de encuestas desarrollada en Java  
+🔹 Trabajo en equipo enfocado en lógica backend y manejo de datos  
+
+---
+
+### 🚚 ChasquiGo
+🔹 Aplicación web de reparto urbano  
+🔹 "Conectando distancias, entregando confianza"  
+🔹 Desarrollo colaborativo  
+
+---
+
+### 📦 GesPro (Módulo ERP - Almacenes)
+🔹 Sistema web para gestión de almacenes  
+🔹 Tecnologías: Spring Web + Angular  
+🔹 Enfocado en procesos empresariales  
+
+---
+
+### 🏥 BuenaSalud
+🔹 Plataforma web para gestión de consultas médicas  
+🔹 Optimiza procesos clínicos  
+🔹 Tecnologías: Angular + Spring Web  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contacto
+
+📧 Email: sebastian_avila39@hotmail.com  
+
+---
+
+## 🔄 En constante crecimiento
+
+🚀 Este perfil seguirá actualizándose con nuevos proyectos, tecnologías y aprendizajes.  
