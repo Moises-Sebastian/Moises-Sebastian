@@ -10,13 +10,22 @@
 
 <p align="center">
   <a href="https://github.com/Moises-Sebastian">
-    <img src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
   <a href="mailto:moiavilaroldan14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
   <a href="mailto:sebastian_avila39@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-Contacto-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Hotmail-Contacto-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
+      alt="Hotmail"
+    />
   </a>
 </p>
 
@@ -37,25 +46,38 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos académic
 ### Lenguajes de Programación
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,go" />
+  <img
+    src="https://skillicons.dev/icons?i=java,javascript,typescript,python,go"
+    alt="Java, JavaScript, TypeScript, Python y Go"
+  />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,vite,bootstrap" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,vite,bootstrap"
+    alt="HTML, CSS, React, Angular, Next.js, Vite y Bootstrap"
+  />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" />
+  <img
+    src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs"
+    alt="Spring, Node.js, Express y NestJS"
+  />
 </p>
 
 ### Bases de Datos
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase"
+    alt="MySQL, PostgreSQL, MongoDB y Supabase"
+  />
+
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
     width="48"
@@ -67,13 +89,19 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos académic
 ### Herramientas de Desarrollo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"
+    alt="Git, GitHub, VS Code, Docker y Postman"
+  />
 </p>
 
 ### Cloud & Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,supabase" />
+  <img
+    src="https://skillicons.dev/icons?i=vercel,supabase"
+    alt="Vercel y Supabase"
+  />
 </p>
 
 ---
@@ -127,16 +155,22 @@ Plataforma web orientada a la gestión de consultas médicas.
 ## Estadísticas de GitHub
 
 <p align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Moises-Sebastian&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
+    src="https://img.shields.io/github/followers/Moises-Sebastian?style=for-the-badge&logo=github&label=Followers"
+    alt="GitHub Followers"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sebastian&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-    height="180"
-    alt="Top Languages"
+    src="https://img.shields.io/github/stars/Moises-Sebastian?style=for-the-badge&logo=github&label=Stars"
+    alt="GitHub Stars"
   />
+
+  <img
+    src="https://img.shields.io/github/commit-activity/y/Moises-Sebastian?style=for-the-badge&logo=github&label=Commits"
+    alt="GitHub Commits"
+  />
+
 </p>
 
 <p align="center">
@@ -149,21 +183,13 @@ Plataforma web orientada a la gestión de consultas médicas.
 
 ---
 
-## Actividad en GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Moises-Sebastian&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
 ## Enfoque Profesional
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,postgres,mongodb,docker" />
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,react,nodejs,postgres,mongodb,docker"
+    alt="Tecnologías principales"
+  />
 </p>
 
 Actualmente estoy enfocado en fortalecer mis conocimientos en:
@@ -181,14 +207,15 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en:
 
 ## Áreas de Interés
 
-| Área | Enfoque |
+| Área | Tecnologías / Enfoque |
 |---|---|
-| Backend | APIs REST, lógica de negocio y arquitectura |
-| Bases de Datos | PostgreSQL, MySQL, SQL Server y MongoDB |
-| Frontend | React, Angular y Next.js |
-| Cloud | Vercel y Supabase |
-| Lenguajes | Java, JavaScript, TypeScript, Python y Go |
-| DevOps | Git, GitHub y Docker |
+| Backend | Java, Spring, Node.js, Express, NestJS |
+| Frontend | React, Angular, Next.js |
+| Bases de Datos | PostgreSQL, MySQL, SQL Server, MongoDB |
+| Cloud | Supabase, Vercel |
+| Lenguajes | Java, JavaScript, TypeScript, Python, Go |
+| DevOps | Git, GitHub, Docker |
+| APIs | REST API, integración de servicios |
 
 ---
 
@@ -197,15 +224,24 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en:
 <p align="center">
 
   <a href="mailto:moiavilaroldan14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-moiavilaroldan14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Gmail-moiavilaroldan14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 
   <a href="mailto:sebastian_avila39@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-sebastian__avila39%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Hotmail-sebastian__avila39%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
+      alt="Hotmail"
+    />
   </a>
 
   <a href="https://github.com/Moises-Sebastian">
-    <img src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
 </p>
@@ -213,5 +249,7 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en:
 ---
 
 <p align="center">
-  <sub>Construyendo soluciones, aprendiendo nuevas tecnologías y mejorando continuamente.</sub>
+  <sub>
+    Construyendo soluciones, aprendiendo nuevas tecnologías y mejorando continuamente.
+  </sub>
 </p>
