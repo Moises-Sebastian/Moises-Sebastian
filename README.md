@@ -1,15 +1,19 @@
-<h1 align="center">Moisés Sebastián Ávila Roldán</h1>
+<h1 align="center">
+  Moisés Sebastián Ávila Roldán
+</h1>
 
-<h3 align="center">
-  Estudiante de Ingeniería de Sistemas e Informática | Desarrollador Web
-</h3>
+<p align="center">
+  <strong>Estudiante de Ingeniería de Sistemas e Informática</strong>
+  <br>
+  Desarrollador Web | Backend | Bases de Datos
+</p>
 
 <p align="center">
   <a href="https://github.com/Moises-Sebastian">
-    <img src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:sebastian_avila39@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -17,11 +21,11 @@
 
 ## Perfil
 
-Estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú, orientado al desarrollo de aplicaciones web y al diseño de soluciones tecnológicas.
+Estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú, interesado en el desarrollo de soluciones web y sistemas orientados a resolver problemas reales.
 
-Mi principal interés se encuentra en el desarrollo **backend**, las **bases de datos**, la **arquitectura de sistemas** y la construcción de aplicaciones web escalables.
+Mi principal enfoque se encuentra en el **desarrollo backend, bases de datos, arquitectura de sistemas y desarrollo web**, complementando estos conocimientos con tecnologías frontend modernas y herramientas de cloud deployment.
 
-Actualmente continúo fortaleciendo mis conocimientos mediante proyectos académicos y personales, trabajando con diferentes tecnologías del ecosistema web.
+Actualmente continúo fortaleciendo mis habilidades mediante proyectos académicos, colaborativos y personales.
 
 ---
 
@@ -29,45 +33,43 @@ Actualmente continúo fortaleciendo mis conocimientos mediante proyectos académ
 
 ### Lenguajes de Programación
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,go,ts" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,go" />
 </p>
 
-### Desarrollo Frontend
+### Frontend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,vite,bootstrap" />
 </p>
 
-### Backend y Frameworks
+### Backend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" />
 </p>
 
 ### Bases de Datos
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
-</p>
-
-<p>
-  <img 
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
     width="48"
     height="48"
+    alt="SQL Server"
   />
 </p>
 
-### Herramientas y Entornos
+### Herramientas
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
-### Cloud y Deployment
+### Cloud & Deployment
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,supabase" />
 </p>
 
@@ -79,7 +81,8 @@ Actualmente continúo fortaleciendo mis conocimientos mediante proyectos académ
 
 Plataforma de encuestas desarrollada en Java como proyecto colaborativo.
 
-- Desarrollo de lógica de negocio y funcionalidades backend.
+- Desarrollo de lógica de negocio.
+- Implementación de funcionalidades backend.
 - Manejo y persistencia de datos.
 - Trabajo colaborativo mediante Git y GitHub.
 
@@ -90,27 +93,30 @@ Plataforma de encuestas desarrollada en Java como proyecto colaborativo.
 Aplicación web orientada al servicio de reparto urbano.
 
 - Gestión de procesos relacionados con entregas.
-- Desarrollo colaborativo.
-- Implementación de funcionalidades orientadas a usuarios y repartidores.
+- Desarrollo de funcionalidades para usuarios y repartidores.
+- Trabajo colaborativo.
+- Aplicación de conceptos de desarrollo web.
 
 ---
 
 ### GesPro
 
-Módulo ERP orientado a la gestión de almacenes y procesos empresariales.
+Sistema web orientado a la gestión de almacenes y procesos empresariales.
 
-- Desarrollo de funcionalidades para gestión de almacenes.
-- Arquitectura basada en frontend y backend.
+- Gestión de información de almacenes.
+- Desarrollo de funcionalidades empresariales.
+- Integración entre frontend y backend.
 - Tecnologías principales: Angular y Spring Web.
 
 ---
 
 ### BuenaSalud
 
-Plataforma web para la gestión de consultas médicas.
+Plataforma web orientada a la gestión de consultas médicas.
 
-- Gestión de información relacionada con consultas.
-- Optimización de procesos clínicos.
+- Gestión de consultas.
+- Organización de información clínica.
+- Optimización de procesos.
 - Tecnologías principales: Angular y Spring Web.
 
 ---
@@ -119,29 +125,33 @@ Plataforma web para la gestión de consultas médicas.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Moises-Sebastian&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Moises-Sebastian&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sebastian&layout=compact&hide_border=true&theme=tokyonight"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sebastian&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+    height="180"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Moises-Sebastian&theme=tokyonight&hide_border=true"
-    height="170"
+    height="180"
+    alt="GitHub Streak"
   />
 </p>
 
 ---
 
-## Actividad
+## Actividad en GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Moises-Sebastian&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Moises-Sebastian&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
@@ -151,27 +161,38 @@ Plataforma web para la gestión de consultas médicas.
 
 Actualmente estoy enfocado en fortalecer mis conocimientos en:
 
-- Desarrollo backend.
-- Arquitectura de sistemas.
-- Bases de datos relacionales y NoSQL.
-- Desarrollo de aplicaciones web.
-- APIs REST.
-- Desarrollo frontend moderno.
-- Cloud y deployment.
-- Integración de servicios y herramientas modernas.
+| Área | Enfoque |
+|---|---|
+| Backend | APIs REST, lógica de negocio y arquitectura |
+| Bases de Datos | PostgreSQL, MySQL, SQL Server y MongoDB |
+| Frontend | React, Angular y Next.js |
+| Cloud | Vercel y Supabase |
+| Desarrollo | Java, JavaScript, TypeScript, Python y Go |
+| DevOps | Git, GitHub y Docker |
+
+---
+
+## Actualmente Aprendiendo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,go,docker,supabase,vercel" />
+</p>
 
 ---
 
 ## Contacto
 
-<p>
+<p align="center">
   <a href="mailto:sebastian_avila39@hotmail.com">
     <img src="https://img.shields.io/badge/Email-sebastian__avila39%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Moises-Sebastian">
+    <img src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Construyendo soluciones, aprendiendo nuevas tecnologías y mejorando continuamente.</i>
+  <sub>Construyendo soluciones, aprendiendo nuevas tecnologías y mejorando continuamente.</sub>
 </p>
