@@ -156,26 +156,25 @@ Plataforma web orientada a la gestión de consultas médicas.
 
 <p align="center">
 
-  <img
-    src="https://img.shields.io/github/followers/Moises-Sebastian?style=for-the-badge&logo=github&label=Followers"
-    alt="GitHub Followers"
-  />
+  <a href="https://github.com/Moises-Sebastian">
+    <img
+      src="https://img.shields.io/github/followers/Moises-Sebastian?style=for-the-badge&logo=github&logoColor=white&label=Followers"
+      alt="GitHub Followers"
+    />
+  </a>
 
-  <img
-    src="https://img.shields.io/github/stars/Moises-Sebastian?style=for-the-badge&logo=github&label=Stars"
-    alt="GitHub Stars"
-  />
-
-  <img
-    src="https://img.shields.io/github/commit-activity/y/Moises-Sebastian?style=for-the-badge&logo=github&label=Commits"
-    alt="GitHub Commits"
-  />
+  <a href="https://github.com/Moises-Sebastian">
+    <img
+      src="https://img.shields.io/github/stars/Moises-Sebastian?style=for-the-badge&logo=github&logoColor=white&label=Stars"
+      alt="GitHub Stars"
+    />
+  </a>
 
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Moises-Sebastian&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Moises-Sebastian&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
