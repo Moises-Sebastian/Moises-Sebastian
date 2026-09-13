@@ -12,8 +12,11 @@
   <a href="https://github.com/Moises-Sebastian">
     <img src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:moiavilaroldan14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="mailto:sebastian_avila39@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hotmail-Contacto-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
 
@@ -61,7 +64,7 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos académic
   />
 </p>
 
-### Herramientas
+### Herramientas de Desarrollo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
@@ -159,7 +162,24 @@ Plataforma web orientada a la gestión de consultas médicas.
 
 ## Enfoque Profesional
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,postgres,mongodb,docker" />
+</p>
+
 Actualmente estoy enfocado en fortalecer mis conocimientos en:
+
+- Desarrollo backend.
+- Diseño y arquitectura de sistemas.
+- Bases de datos relacionales y NoSQL.
+- Desarrollo de APIs REST.
+- Desarrollo frontend moderno.
+- Integración de servicios.
+- Cloud y deployment.
+- Control de versiones y trabajo colaborativo.
+
+---
+
+## Áreas de Interés
 
 | Área | Enfoque |
 |---|---|
@@ -167,28 +187,27 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en:
 | Bases de Datos | PostgreSQL, MySQL, SQL Server y MongoDB |
 | Frontend | React, Angular y Next.js |
 | Cloud | Vercel y Supabase |
-| Desarrollo | Java, JavaScript, TypeScript, Python y Go |
+| Lenguajes | Java, JavaScript, TypeScript, Python y Go |
 | DevOps | Git, GitHub y Docker |
-
----
-
-## Actualmente Aprendiendo
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,go,docker,supabase,vercel" />
-</p>
 
 ---
 
 ## Contacto
 
 <p align="center">
+
+  <a href="mailto:moiavilaroldan14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-moiavilaroldan14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
   <a href="mailto:sebastian_avila39@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-sebastian__avila39%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hotmail-sebastian__avila39%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
+
   <a href="https://github.com/Moises-Sebastian">
-    <img src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Moises--Sebastian-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 </p>
 
 ---
